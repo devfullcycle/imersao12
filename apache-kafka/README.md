@@ -30,3 +30,9 @@ Quando parar os containers do Kafka, lembre-se antes de rodar o **docker-compose
 Lembrar de instalar o WSL2 e Docker. Vejo o vídeo: [https://www.youtube.com/watch?v=usF0rYCcj-E](https://www.youtube.com/watch?v=usF0rYCcj-E) 
 
 Siga o guia rápido de instalação: [https://github.com/codeedu/wsl2-docker-quickstart](https://github.com/codeedu/wsl2-docker-quickstart) 
+
+## Se tiver dificuldades de como conectar o Kafka nos microsserviços
+
+Nesta aula, o professor Luiz, explicou como conectar o Kafka nos microsserviços, então, criamos um vídeo explicando como fazer isso.
+
+[https://www.youtube.com/watch?v=XsngzcsdnXQ](https://www.youtube.com/watch?v=XsngzcsdnXQ)
