@@ -15,4 +15,3 @@ As instruções de instalações estão no README.md de cada projeto.
 Nesta aula, o professor Luiz, explicou como conectar o Kafka nos microsserviços, então, criamos um vídeo explicando como fazer isso.
 
 [https://www.youtube.com/watch?v=XsngzcsdnXQ](https://www.youtube.com/watch?v=XsngzcsdnXQ)
-
